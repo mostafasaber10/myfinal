@@ -1,0 +1,1056 @@
+section{
+  display: flex;
+  flex-direction: column;
+}
+
+.try img{
+  width: 76.9%;
+  height: 45%;
+  position: absolute;
+  right: 350px;
+  top: 0px;
+  opacity: 0.4;
+  
+}
+
+
+.circlea {
+  width: 120px;
+  height: 120px;
+  background-color: var(--navber-background);
+  border-radius: 50%; /* يجعل العنصر دائريًا */
+  text-align: center;
+  color: var(--hover-color);
+  font-size: 18px;
+  padding: 20px;
+  position: relative;
+  right: 1200px;
+  top: 100px;
+}
+.circlea:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.circles{
+  width: 120px;
+  height: 120px;
+  background-color: var(--navber-background);
+  border-radius: 50%; /* يجعل العنصر دائريًا */
+  text-align: center;
+  color: var(--hover-color);
+  font-size: 18px;
+  padding: 20px;
+  position: relative;
+  right: 850px;
+  bottom: 20px;
+}
+.circles:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.circled{
+  width: 120px;
+  height: 120px;
+  background-color: var(--navber-background);
+  border-radius: 50%; /* يجعل العنصر دائريًا */
+  text-align: center;
+  color: var(--hover-color);
+  font-size: 18px;
+  padding: 20px;
+  position: relative;
+  right: 550px;
+  bottom: 140px;
+}
+.circled:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.pen{
+  text-align: center;
+  position: relative;
+  top: 25px;
+}
+
+
+.pena{
+  text-align: center;
+  position: relative;
+  top: 5px;
+  right: 15px;
+  width: 50px;
+}
+
+/*  */
+
+
+
+.ten{
+  display: flex;
+
+  }
+  
+  
+.tena{
+    position: relative;
+    right: 800px;
+    top: -40px;
+    font-size: 25px;
+    width: 349px;
+  }
+  
+  
+.tend{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 50px;
+     top: 30px;
+     cursor: pointer;
+  }
+  
+.tend:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+.tenf{
+    color: var(--tit-color);
+  }
+  
+.teng img{
+  width: 80%;
+  height: 175px;
+  position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+.tenh{
+    position: relative;
+    right: 30px;
+    top: 60px;
+    font-size: 18px;
+    width: 200px;
+  }
+  
+  .tenj{
+    position: relative;
+    right: 20px;
+    top: 70px;
+    width: 280px;
+  }
+  
+  .tenk{
+    position: relative;
+    right: 10px;
+    top: 100px;
+  }
+  .tenl{
+    position: relative;
+    right: 160px;
+    top: 75px;
+  }
+  
+  .tenz{
+    position: relative;
+    right: 40px;
+    top: 90px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .tenz:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  
+  
+  /*  */
+  
+  .nine{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 120px;
+     top: 30px;
+     cursor: pointer;
+  }
+  
+  .nine:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+  .ninea{
+    color: var(--tit-color);
+  }
+  
+  
+  .nines img{
+    width: 80%;
+    height: 80%;
+  position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+  .nined{
+  position: relative;
+  top: 60px;
+  font-size: 20px;
+  }
+  
+  .ninef{
+    position: relative;
+    top: 80px;
+    width: 280px;
+  }
+  .nineg{
+    position: relative;
+    top: 120px;
+    right: 20px;
+  }
+  
+  .nineh{
+    position: relative;
+    top: 95px;
+    right: 170px;
+  }
+  
+  .ninej{
+    position: relative;
+    right: 40px;
+    top: 111px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .ninej:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  
+  
+  
+  
+  /*  */
+  
+  .eight{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 200px;
+     top: 30px;
+     cursor: pointer;
+  }
+  
+  .eight:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+  .eighta{
+    color: var(--tit-color);
+  }
+  
+  
+  
+  .eights img{
+    width: 80%;
+    height: 175px;
+    position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+  .eightd{
+  position: relative;
+    top: 65px;
+    width: 280px;
+    font-size: 20px;
+  }
+  
+  .eightf{
+    position: relative;
+    top: 70px;
+    right: 10px;
+    width: 300px;
+  }
+  
+  .eightg{
+    position: relative;
+    top: 80px;
+    right: 10px;
+    width: 130px;
+  }
+  
+  .eighth{
+    position: relative;
+    top: 53px;
+    right: 170px;
+    width: 150px;
+  }
+  
+  
+  .eightj{
+    position: relative;
+    right: 40px;
+    top: 55px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .eightj:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  /*  */
+
+  .hrf{
+    border: 5px solid var(--navber-background);
+    position: relative;
+    top: 70px;
+    width: 900px;
+    height: 0px;
+    right: 500px;
+    
+  }
+
+  
+
+  /*  */
+
+  .sevn{
+    position: relative;
+    top: 50px;
+    right: 840px;
+    width: 200px;
+  }
+  /*  */
+.sevna{
+  display: flex;
+  position: relative;
+  top: 50px;
+}
+
+  .sevnd{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: -450px;
+     top: 90px;
+     cursor: pointer;
+  }
+  
+.sevnd:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+
+  .sevnf{
+    color: var(--tit-color);
+  }
+
+  .sevng img{
+    width: 80%;
+    height: 175px;
+    position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+  .sevnh{
+      position: relative;
+      right: 30px;
+      top: 60px;
+      font-size: 18px;
+      width: 200px;
+    }
+    
+    .sevnj{
+      position: relative;
+      right: 5px;
+      top: 70px;
+      width: 280px;
+    }
+    
+    .sevnk{
+      position: relative;
+      right: 10px;
+      top: 100px;
+    }
+    .sevnl{
+      position: relative;
+      right: 160px;
+      top: 75px;
+    }
+    
+    .sevnz{
+      position: relative;
+      right: 40px;
+      top: 90px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .sevnz:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+    
+    /*  */
+
+    .five{
+      width:300px ;
+      height:500px;
+       border:3px solid var(--navber-background);
+       position: relative;
+       right: -70px;
+     bottom: 410px;
+       cursor: pointer;
+    }
+    
+    .five:hover{
+      box-shadow: 0 0 7px 7px var(--navber-background);
+    }
+    
+    .fivea{
+      color: var(--tit-color);
+    }
+    
+    
+    .fives img{
+      width: 80%;
+      height: 175px;
+    position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+    .fived{
+    position: relative;
+    top: 60px;
+    font-size: 20px;
+    }
+    
+    .fivef{
+      position: relative;
+      top: 70px;
+      width: 280px;
+    }
+    .fiveg{
+      position: relative;
+      top: 100px;
+      right: 20px;
+    }
+    
+    .fiveh{
+      position: relative;
+      top: 75px;
+      right: 170px;
+    }
+    
+    .fivej{
+      position: relative;
+      right: 40px;
+      top: 85px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .fivej:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+
+    /*  */
+    
+    .theera{
+      width:300px ;
+      height:500px;
+       border:3px solid var(--navber-background);
+       position: relative;
+       right: 300px;
+       bottom: 910px;
+       cursor: pointer;
+    }
+    
+    .theera:hover{
+      box-shadow: 0 0 7px 7px var(--navber-background);
+    }
+    
+    .theers{
+      color: var(--tit-color);
+    }
+    
+    
+    
+    .theerd img{
+      width: 80%;
+      height: 175px;
+      position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+    .theerf{
+    position: relative;
+      top: 65px;
+      width: 280px;
+      font-size: 20px;
+    }
+    
+    .theerg{
+      position: relative;
+      top: 75px;
+      right: 10px;
+      width: 280px;
+    }
+    
+    .theerh{
+      position: relative;
+      top: 120px;
+      right: 10px;
+      width: 130px;
+    }
+    
+    .theerj{
+      position: relative;
+      top: 95px;
+      right: 170px;
+      width: 150px;
+    }
+    
+    
+    .theerk{
+      position: relative;
+      right: 40px;
+      top: 115px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .theerk:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+    
+    /*  */
+    .hrv{
+      border: 5px solid var(--navber-background);
+      position: relative;
+      bottom: 800px;
+      width: 900px;
+      height: 0;
+      right: 500px;
+    }
+
+    /*  1*/
+  
+    .plus{
+      position: relative;
+      bottom: 720px;
+      right: 500px;
+      width: 600px;
+      height:0px;
+    }
+  
+
+    .plusa{
+      position: relative;
+      text-align: center;
+      right: 130px;
+      bottom: 70px;
+    }
+
+.plusss{
+  position: relative;
+  bottom: 50px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+    .pluss{
+      position: relative;
+      bottom: 50px;
+      right: 200px;
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      width: 300px;
+    }
+    .pluss:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+
+    .plusdd{
+      position: relative;
+      bottom: -20px;
+      left: 440px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .plusd{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      outline: none;
+      position: relative;
+      background-color: var(--hover-color);
+      right: 330px;
+      bottom: 30px;
+      width: 300px;
+    }
+    .plusd:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+    .plusff{
+      position: relative;
+      bottom: -45px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plusf{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: -5px;
+    }
+    .plusf:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+
+    .plusgg{
+      position: relative;
+      top: 70px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plusg{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: 20px;
+    }
+    .plusg:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+
+    .plushh{
+      position: relative;
+      top: 110px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plush{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: 50px;
+    }
+    .plush:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+    .plusjj{
+      position: relative;
+      top: 140px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plusj{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: 90px;
+    }
+    .plusj:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+
+    .pluskk{
+      position: relative;
+      top: 170px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plusk{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: 120px;
+    }
+    .plusk:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+
+    .plusll{
+      position: relative;
+      top: 200px;
+      left: 310px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .plusl{
+      border: none;
+      box-shadow: 0 5px 5px 0 var(--navber-background);
+      background-color: var(--hover-color);
+      outline: none;
+      position: relative;
+      right: 330px;
+      width: 300px;
+      top: 130px;
+    }
+    .plusl:hover{
+      box-shadow: 0 0 1px 1px var(--navber-background);
+    }
+
+    .plusz{
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      outline: none;
+      cursor: pointer;
+      border: none;
+      position: relative;
+      top: 250px;
+      left: 150px;
+      width: 150px;
+      height: 40px;
+    }
+
+    .plusz:hover{
+      background: var(--hover-color);
+      color: var(--navber-background);
+      box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+
+    .plusx{
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      outline: none;
+      cursor: pointer;
+      border: none;
+      position: relative;
+      top: 200px;
+      left: -470px;
+      width: 150px;
+      height: 40px;
+    }
+    .plusx:hover{
+      background: var(--hover-color);
+      color: var(--navber-background);
+      box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+
+/*  */
+
+footer {
+  
+  color: var(--tit-color); 
+  padding: 5px;
+  border:3px solid var(--navber-background);
+  border-radius: 20px;
+  text-align: center; 
+position: relative;
+  top:50px;
+  right: 540px;
+width: 850px;
+height: 100px;
+
+}
+
+
+
+h1 {
+  font-size: 23px; 
+  margin-bottom: 10px; 
+
+}
+
+p {
+  font-size: 18px; 
+}
+
+.lhud{
+  position: relative;
+  left: 10px;
+  top: 27px;
+  width: 150px;
+}
+.wfhph{
+  position: relative;
+  left: 190px;
+  top: -12px;
+}
+
+.lshx{
+position: relative;
+left: 30px;
+top: -40px;
+}
+.hgprr{
+  position: relative;
+  right: 500px;
+  top: -65px;
+  width: 300px;
+}
+
+
+
+/*  */
+
+@media only screen and (max-width: 767px) {
+  .section {
+    display: flex;
+flex-direction: column;
+  }
+  
+  
+  .try img {
+    width: 100%; 
+    height: auto; 
+    position: relative; 
+    right: auto;
+    top: -150px;
+    opacity: 1; 
+  }
+
+  .circlea,
+  .circles,
+  .circled {
+    position: relative;
+        width: 100%;
+      text-align: center;
+      right: 0; 
+      bottom: 250px; 
+  }
+
+  .pen{
+  text-align: center;
+  }
+    .pena{
+      text-align: center;
+      position: relative;
+      right: 150px;
+    } 
+
+  .ten {
+    flex-direction: column;
+  }
+
+  .tena {
+    position: relative;
+    right: 0;
+    top: -80px;
+  }
+
+  .tend{
+    position: relative;
+          width: 100%;
+          right: 0; 
+          top: 0; 
+  }
+
+  .nine{
+    position: relative;
+          width: 100%;
+          right: 0; 
+          top: 0; 
+  }
+
+  .nineg{
+    position: relative;
+    right: 0px;
+    top: 90px;
+  }
+  .nineh{
+    position: relative;
+    top: 65px;
+  }
+
+  .ninej{
+    position: relative;
+    top: 70px;
+  }
+
+
+  .eight{
+    position: relative;
+          width: 100%;
+          right: 0; 
+          top: 0; 
+  }
+
+  .hrf{
+    position: relative;
+    top: 50px;
+      width: 100%;
+      right: 0; 
+  }
+
+.sevna{
+  position: relative;
+  top: 0px;
+  right: -800px; 
+}
+
+.sevnd{
+  position: relative;
+          width: 150%;
+          right: -800px; 
+          top: 0; 
+}
+
+.five{
+  position: relative;
+  width: 150%;
+  right: -800px; 
+  top: 0; 
+}
+
+.theera{
+  position: relative;
+  width: 150%;
+  right: -800px; 
+  top: 0; 
+}
+
+.hrv{
+  position: relative;
+  top: 80px;
+    width: 100%;
+    right: 0; 
+}
+
+.plus{
+  position: relative;
+  top: 200px;
+  right: -300px; 
+}
+
+.plusz{
+  position: relative;
+  right: -20px;
+}
+
+  .plusss, .plusdd, .plusff, .plusgg, .plushh, .plusjj, .pluskk, .plusll{
+    visibility: hidden;
+    opacity: 0;
+  }
+
+
+  footer {
+    position: relative;
+    top: 1000px;
+    right: 0;
+    width: 80%; /* تمتد القدم بالعرض الكامل */
+    height: auto; /* يتم ضبط الارتفاع تلقائيًا حسب المحتوى */
+  }
+
+  .lhud {
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  .wfhph {
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  .lshx {
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  .hgprr {
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%; /* تمتد النص بالعرض الكامل */
+    text-align: center; /* يتم وسط النص أفقيًا */
+  }
+
+
+}

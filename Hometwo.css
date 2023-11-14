@@ -1,0 +1,1086 @@
+section{
+  display: flex;
+  flex-direction: column;
+}
+
+.tye img{
+  width: 76.9%;
+  height: 45%;
+  position: absolute;
+  right: 350px;
+  top: 0px;
+  opacity: 0.4;
+  
+}
+
+
+.circle {
+    width: 120px;
+    height: 120px;
+    background-color: var(--navber-background);
+    
+  
+    background-size: cover;
+    background-position:100% 100%;
+
+    border-radius: 50%; /* يجعل العنصر دائريًا */
+    text-align: center;
+    color: var(--hover-color);
+    font-size: 18px;
+    padding: 20px;
+    position: relative;
+    right: 1200px;
+    top: 110px;
+}
+
+.circle:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.circler{
+  width: 120px;
+  height: 120px;
+  background-color: var(--navber-background);
+  border-radius: 50%; /* يجعل العنصر دائريًا */
+  text-align: center;
+  color: var(--hover-color);
+  font-size: 18px;
+  padding: 20px;
+  position: relative;
+  right: 850px;
+  bottom: 10px;
+}
+.circler:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.circlet{
+  width: 120px;
+  height: 120px;
+  background-color: var(--navber-background);
+  border-radius: 50%; /* يجعل العنصر دائريًا */
+  text-align: center;
+  color: var(--hover-color);
+  font-size: 18px;
+  padding: 20px;
+  position: relative;
+  right: 550px;
+  bottom: 130px;
+}
+.circlet:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+
+.pa{
+  text-align: center;
+  position: relative;
+  top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  */
+.hglgs{
+  display: flex;
+
+  }
+  
+  
+.htqgs{
+    position: relative;
+    right: 830px;
+    top: -30px;
+    font-size: 25px;
+    width: 349px;
+  }
+  
+  
+.hqws{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 50px;
+     top: 50px;
+     cursor: pointer;
+  }
+  
+.hqws:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+.hqwas{
+    color: var(--tit-color);
+  }
+  
+.aims img{
+  width: 80%;
+  height: 175px;
+  position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+.aimhs{
+    position: relative;
+    right: 30px;
+    top: 60px;
+    font-size: 18px;
+    width: 200px;
+  }
+  
+  .aimps{
+    position: relative;
+    right: 20px;
+    top: 70px;
+    width: 280px;
+  }
+  
+  .beds{
+    position: relative;
+    right: 10px;
+    top: 100px;
+  }
+  .wcs{
+    position: relative;
+    right: 160px;
+    top: 75px;
+  }
+  
+  .jtgas{
+    position: relative;
+    right: 40px;
+    top: 90px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .jtgas:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  
+  
+  /*  */
+  
+  .fdjas{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 120px;
+     top: 50px;
+     cursor: pointer;
+  }
+  
+  .fdjas:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+  .fdjss{
+    color: var(--tit-color);
+  }
+  
+  
+  .fdjs img{
+    width: 80%;
+    height: 80%;
+  position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+  .fdjds{
+  position: relative;
+  top: 60px;
+  font-size: 20px;
+  }
+  
+  .fdjfs{
+    position: relative;
+    top: 80px;
+    width: 280px;
+  }
+  .fdjgs{
+    position: relative;
+    top: 120px;
+    right: 20px;
+  }
+  
+  .wcf{
+    position: relative;
+    top: 95px;
+    right: 170px;
+  }
+  
+  .fdjhs{
+    position: relative;
+    right: 40px;
+    top: 111px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .fdjhs:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  
+  
+  
+  
+  /*  */
+  
+  .lifas{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 200px;
+     top: 50px;
+     cursor: pointer;
+  }
+  
+  .lifas:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+  
+  .lifss{
+    color: var(--tit-color);
+  }
+  
+  
+  
+  .ljfs img{
+    width: 80%;
+    height: 175px;
+    position: relative;
+  right: 30px;
+  top: 50px;
+  }
+  
+  .lifds{
+  position: relative;
+    top: 65px;
+    width: 280px;
+    font-size: 20px;
+  }
+  
+  .liffs{
+    position: relative;
+    top: 75px;
+    right: 10px;
+    width: 280px;
+  }
+  
+  .lifgs{
+    position: relative;
+    top: 100px;
+    right: 10px;
+    width: 130px;
+  }
+  
+  .lifhs{
+    position: relative;
+    top: 75px;
+    right: 170px;
+    width: 150px;
+  }
+  
+  
+  .lifjs{
+    position: relative;
+    right: 40px;
+    top: 83px;
+    border: none;
+    background-color: var(--navber-background);
+    color: var(--hover-color);
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .lifjs:hover{
+  background: var(--hover-color);
+  color: var(--navber-background);
+  box-shadow: 0 0 5px 5px var(--navber-background);
+  }
+  /*  */
+
+  .hro{
+    border: 5px solid var(--navber-background);
+    position: relative;
+    top: 100px;
+    width: 900px;
+    height: 0px;
+    right: 500px;
+    
+  }
+
+  /*  */
+
+  .uvre{
+    position: relative;
+    top: 110px;
+    right: 840px;
+    width: 200px;
+  }
+  /*  */
+.pgh{
+  display: flex;
+}
+
+  .hqw{
+    width:300px ;
+    height:500px;
+     border:3px solid var(--navber-background);
+     position: relative;
+     right: 200px;
+     top: 170px;
+     cursor: pointer;
+  }
+  
+.hqw:hover{
+    box-shadow: 0 0 7px 7px var(--navber-background);
+  }
+
+  .hqwa{
+    color: var(--tit-color);
+  }
+
+  .aim img{
+    width: 80%;
+    height: 175px;
+    position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+  .aimx{
+      position: relative;
+      right: 30px;
+      top: 60px;
+      font-size: 18px;
+      width: 200px;
+    }
+    
+    .aimv{
+      position: relative;
+      right: 20px;
+      top: 70px;
+      width: 280px;
+    }
+    
+    .beo{
+      position: relative;
+      right: 10px;
+      top: 100px;
+    }
+    .wca{
+      position: relative;
+      right: 160px;
+      top: 75px;
+    }
+    
+    .jtga{
+      position: relative;
+      right: 40px;
+      top: 115px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .jtga:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+    
+    /*  */
+
+    .fdja{
+      width:300px ;
+      height:500px;
+       border:3px solid var(--navber-background);
+       position: relative;
+       right: 270px;
+     bottom: -170px;
+       cursor: pointer;
+    }
+    
+    .fdja:hover{
+      box-shadow: 0 0 7px 7px var(--navber-background);
+    }
+    
+    .fdjs{
+      color: var(--tit-color);
+    }
+    
+    
+    .fdj img{
+      width: 80%;
+      height: 175px;
+    position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+    .fdjd{
+    position: relative;
+    top: 60px;
+    font-size: 20px;
+    }
+    
+    .fdjf{
+      position: relative;
+      top: 80px;
+      width: 280px;
+    }
+    .fdjg{
+      position: relative;
+      top: 100px;
+      right: 20px;
+    }
+    
+    .wcq{
+      position: relative;
+      top: 75px;
+      right: 170px;
+    }
+    
+    .fdjh{
+      position: relative;
+      right: 40px;
+      top: 111px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .fdjh:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+
+    /*  */
+    
+    .lifa{
+      width:300px ;
+      height:500px;
+       border:3px solid var(--navber-background);
+       position: relative;
+       right: 350px;
+       bottom: -170px;
+       cursor: pointer;
+    }
+    
+    .lifa:hover{
+      box-shadow: 0 0 7px 7px var(--navber-background);
+    }
+    
+    .lifs{
+      color: var(--tit-color);
+    }
+    
+    
+    
+    .ljf img{
+      width: 80%;
+      height: 175px;
+      position: relative;
+    right: 30px;
+    top: 50px;
+    }
+    
+    .lifd{
+    position: relative;
+      top: 65px;
+      width: 280px;
+      font-size: 20px;
+    }
+    
+    .liff{
+      position: relative;
+      top: 75px;
+      right: 10px;
+      width: 280px;
+    }
+    
+    .lifg{
+      position: relative;
+      top: 120px;
+      right: 10px;
+      width: 130px;
+    }
+    
+    .lifh{
+      position: relative;
+      top: 95px;
+      right: 170px;
+      width: 150px;
+    }
+    
+    
+    .lifj{
+      position: relative;
+      right: 40px;
+      top: 135px;
+      border: none;
+      background-color: var(--navber-background);
+      color: var(--hover-color);
+      cursor: pointer;
+      outline: none;
+      width: 200px;
+      height: 30px;
+    }
+    
+    .lifj:hover{
+    background: var(--hover-color);
+    color: var(--navber-background);
+    box-shadow: 0 0 5px 5px var(--navber-background);
+    }
+    
+    /*  */
+    .hrt{
+      border: 5px solid var(--navber-background);
+      position: relative;
+      bottom: -230px;
+      width: 900px;
+      height: 0;
+      right: 500px;
+    }
+
+    /*  1*/
+    .pg{
+      display: flex;
+    }
+
+    .uvr{
+      position: relative;
+      bottom: -250px;
+      right: 840px;
+      width: 200px;
+    }
+    /*  */
+  
+    .hq{
+      width:300px ;
+      height:500px;
+       border:3px solid var(--navber-background);
+       position: relative;
+       right: 200px;
+       bottom: -350px;
+       cursor: pointer;
+    }
+    
+  .hq:hover{
+      box-shadow: 0 0 7px 7px var(--navber-background);
+    }
+  
+    .hqw{
+      color: var(--tit-color);
+    }
+  
+    .aio img{
+      width: 80%;
+      height: 175px;
+      position: relative;
+      right: 30px;
+      top: 50px;
+      }
+      
+    .aimq{
+        position: relative;
+        right: 5px;
+        top: 60px;
+        font-size: 18px;
+        width: 290px;
+      }
+      
+      .aam{
+        position: relative;
+        right: 5px;
+        top: 60px;
+        width: 290px;
+      }
+      
+      .be{
+        position: relative;
+        right: 10px;
+        top: 80px;
+      }
+      .wcm{
+        position: relative;
+        right: 190px;
+        top: 55px;
+      }
+      .bathg{
+        position: relative;
+        right: 120px;
+        top: 30px;
+      }
+      .jtg{
+        position: relative;
+        right: 40px;
+        top: 37px;
+        border: none;
+        background-color: var(--navber-background);
+        color: var(--hover-color);
+        cursor: pointer;
+        outline: none;
+        width: 200px;
+        height: 30px;
+      }
+      
+      .jtg:hover{
+      background: var(--hover-color);
+      color: var(--navber-background);
+      box-shadow: 0 0 5px 5px var(--navber-background);
+      }
+      
+      /*  */
+  
+      .faj{
+        width:300px ;
+        height:500px;
+         border:3px solid var(--navber-background);
+         position: relative;
+         right: 270px;
+       bottom: -350px;
+         cursor: pointer;
+      }
+      
+      .faj:hover{
+        box-shadow: 0 0 7px 7px var(--navber-background);
+      }
+      
+      .fsj{
+        color: var(--tit-color);
+      }
+      
+      
+      .fdd img{
+        width: 80%;
+        height: 175px;
+      position: relative;
+      right: 30px;
+      top: 50px;
+      }
+      
+      .ffj{
+      position: relative;
+      top: 60px;
+      font-size: 20px;
+      }
+      
+      .fgj{
+        position: relative;
+        top: 70px;
+        width: 290px;
+      }
+      .fnj{
+        position: relative;
+        top: 100px;
+        right: 20px;
+      }
+      
+      .wcn{
+        position: relative;
+        top: 76px;
+        right: 190px;
+      }
+      .bath{
+        position: relative;
+        top: 50px;
+        right: 130px;
+        width: 100px;
+      }
+      
+      .fkj{
+        position: relative;
+        right: 40px;
+        top: 57px;
+        border: none;
+        background-color: var(--navber-background);
+        color: var(--hover-color);
+        cursor: pointer;
+        outline: none;
+        width: 200px;
+        height: 30px;
+      }
+      
+      .fkj:hover{
+      background: var(--hover-color);
+      color: var(--navber-background);
+      box-shadow: 0 0 5px 5px var(--navber-background);
+      }
+  
+      /*  */
+      
+      .la{
+        width:300px ;
+        height:500px;
+         border:3px solid var(--navber-background);
+         position: relative;
+         right: 350px;
+       bottom: -350px;
+         cursor: pointer;
+      }
+      
+      .la:hover{
+        box-shadow: 0 0 7px 7px var(--navber-background);
+      }
+      
+      .ls{
+        color: var(--tit-color);
+      }
+      
+      
+      
+      .ld img{
+        width: 80%;
+        height: 175px;
+        position: relative;
+      right: 30px;
+      top: 50px;
+      }
+      
+      .lf{
+      position: relative;
+        top: 70px;
+        width: 280px;
+        font-size: 20px;
+      }
+      
+      .lg{
+        position: relative;
+        top: 90px;
+        right: 10px;
+        width: 280px;
+      }
+      
+      .lh{
+        position: relative;
+        top: 120px;
+        right: 10px;
+        width: 130px;
+      }
+      
+      .lij{
+        position: relative;
+        top: 100px;
+        right: 200px;
+        width: 150px;
+      }
+      
+      .bat{
+        position: relative;
+        top: 70px;
+        right: 120px;
+        width: 150px;
+      }
+      
+      .lik{
+        position: relative;
+        right: 40px;
+        top: 140px;
+        border: none;
+        background-color: var(--navber-background);
+        color: var(--hover-color);
+        cursor: pointer;
+        outline: none;
+        width: 200px;
+        height: 30px;
+      }
+      
+      .lik:hover{
+      background: var(--hover-color);
+      color: var(--navber-background);
+      box-shadow: 0 0 5px 5px var(--navber-background);
+      }
+
+/*  */
+
+footer {
+  
+  color: var(--tit-color); 
+  padding: 5px;
+  border:3px solid var(--navber-background);
+  border-radius: 20px;
+  text-align: center; 
+position: relative;
+  top:500px;
+  right: 540px;
+width: 850px;
+height: 100px;
+
+}
+.fot{
+  position: relative;
+  top: 450px;
+}
+
+
+h1 {
+  font-size: 23px; 
+  margin-bottom: 10px; 
+
+}
+
+p {
+  font-size: 18px; 
+}
+
+.lhud{
+  position: relative;
+  left: 10px;
+  top: 27px;
+  width: 150px;
+}
+.wfhph{
+  position: relative;
+  left: 190px;
+  top: -12px;
+}
+
+.lshx{
+position: relative;
+left: 30px;
+top: -40px;
+}
+.hgprr{
+  position: relative;
+  right: 500px;
+  top: -65px;
+  width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
+
+      @media only screen and (max-width: 767px) {
+
+
+        .section {
+          display: flex;
+  flex-direction: column;
+        }
+      
+
+        .tye img {
+          width: 100%; 
+          height: auto; 
+          position: relative; 
+          right: auto;
+          top: -150px;
+          opacity: 1; 
+        }
+      
+  
+        .circle, .circler, .circlet {
+      position: relative;
+          width: 100%;
+          text-align: center;
+          right: 0; 
+          bottom: 250px; 
+        }
+      
+        .hglgs .htqgs{
+          position: relative;
+          right:100px;
+          top: 0px;
+        }
+      
+        .hglgs {
+          position: relative;
+          flex-direction: column;
+          right: 0; 
+          top: -100px; 
+        }
+      
+      
+        .hqws,  .lifas {
+          position: relative;
+          width: 100%;
+          right: 0; 
+          top: 0; 
+        }
+        .fdjas{
+          position: relative;
+          width: 100%;
+          right: 0; 
+          top: 0; 
+        }
+        .fdjhs{
+          position: relative;
+          top:60px;
+        }
+        .wcf{
+          position: relative;
+          top: 55px;
+          left: 10px;
+        }
+      
+        .fdjgs{
+          position: relative;
+          top: 80px;
+          left: 10px;
+        }
+
+        .pgh {
+          flex-direction: column;
+        }
+      
+      
+         .fdja, .lifa {
+        position: relative;
+          width: 100%;
+          right: 0; 
+          bottom: 0;
+        }
+        .hqw{
+          position: relative;
+          width: 100%;
+          right: 0px;
+          top: -10px;
+        }
+      
+        .hro {
+        position: relative;
+        top: -50px;
+          width: 100%;
+          right: 0; 
+        }
+      
+        
+        .uvre {
+          position: relative;
+          top: -30px;
+          right: 0; 
+        }
+
+         .hrt{
+          position: relative;
+          top:50px ;
+          right: 0;
+          width: 100%;
+         }
+
+        .pg #that{
+            position: relative;
+            right: 0;
+            top: 50px;
+            width: 150px;
+          }
+
+          /*  */
+          .hq{
+            position: relative;
+            width: 100%;
+            right: 0; 
+            bottom: -180px;
+          }
+    
+      .faj{
+        position: relative;
+        width: 100%;
+        right: -300px; 
+        bottom: -700px;
+      }
+
+      .la{
+        position: relative;
+        width: 100%;
+        right: -600px; 
+        bottom: -1250px;
+      }
+    
+
+      .fot{
+        position: relative;
+        top: 1300px;
+        right: 0;
+        width: 80%; /* تمتد القدم بالعرض الكامل */
+        height: auto; /* يتم ضبط الارتفاع تلقائيًا حسب المحتوى */
+      }
+
+      .lhud {
+        position: relative;
+        left: 0;
+        top: 0;
+      }
+    
+      .wfhph {
+        position: relative;
+        left: 0;
+        top: 0;
+      }
+    
+      .lshx {
+        position: relative;
+        left: 0;
+        top: 0;
+      }
+    
+      .hgprr {
+        position: relative;
+        right: 0;
+        top: 0;
+        width: 100%; /* تمتد النص بالعرض الكامل */
+        text-align: center; /* يتم وسط النص أفقيًا */
+      }
+    
+
+/*  */
+      }
